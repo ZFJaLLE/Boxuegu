@@ -1,4 +1,4 @@
-package cn.edu.gdmec.android.boxuegu;
+package cn.edu.gdmec.android.boxuegu.activity;
 
 import android.content.pm.ActivityInfo;
 import android.graphics.Color;
@@ -16,6 +16,7 @@ import android.widget.TextView;
 import cn.edu.gdmec.android.boxuegu.Fragment.CourseFragment;
 import cn.edu.gdmec.android.boxuegu.Fragment.ExercisesFragment;
 import cn.edu.gdmec.android.boxuegu.Fragment.MyinfoFragment;
+import cn.edu.gdmec.android.boxuegu.R;
 
 public class MainActivity extends FragmentActivity implements View.OnClickListener{
 
